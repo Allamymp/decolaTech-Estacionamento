@@ -1,0 +1,14 @@
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/bin/Debug/net8.0/estacionamentoDIO
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/bin/Debug/net8.0/estacionamentoDIO.deps.json
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/bin/Debug/net8.0/estacionamentoDIO.runtimeconfig.json
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/bin/Debug/net8.0/estacionamentoDIO.dll
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/bin/Debug/net8.0/estacionamentoDIO.pdb
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.AssemblyInfoInputs.cache
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.AssemblyInfo.cs
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.csproj.CoreCompileInputs.cache
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.dll
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/refint/estacionamentoDIO.dll
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.pdb
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/estacionamentoDIO.genruntimeconfig.cache
+/home/allamy/Área de Trabalho/dio/estacionamentoDIO/obj/Debug/net8.0/ref/estacionamentoDIO.dll
